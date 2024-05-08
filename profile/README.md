@@ -14,4 +14,4 @@ Koobiq React – Koobiq React components library.
 
 ### ✨ Community
 
-- [Join our Discord](https://discord.gg/6ESnDuzW)
+- [Join our Discord](https://discord.gg/43MRHjgWYg)
