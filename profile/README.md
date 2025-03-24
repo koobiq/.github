@@ -7,10 +7,8 @@
 ### 🚀 Koobiq
 
 - [Koobiq Angular](https://github.com/koobiq/angular-components) - Koobiq Angular components library.
-- [Koobiq Design Tokens](https://github.com/koobiq/design-tokens) - used to maintain a scalable visual system for UI development and brand consistency.
-
-Soon...
-Koobiq React – Koobiq React components library.
+- [Koobiq React](https://github.com/koobiq/react-components) – Koobiq React components library.
+- [Koobiq Design Tokens](https://github.com/koobiq/design-tokens) - used to maintain a scalable visual system for UI development and brand consistency. 
 
 ### ✨ Community
 
