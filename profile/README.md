@@ -1,15 +1,9 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/koobiq/.github/main/profile/koobiq_profile.png" width="100%" alt="koobiq.io">
 
-![An illustration showing the Koobiq logo.](https://github.com/koobiq/.github/assets/567760/c1a0cdbc-0fe4-4977-9a5e-25d183aab827)
-
-
-
-### 🚀 Koobiq
-
-- [Koobiq Angular](https://github.com/koobiq/angular-components) - Koobiq Angular components library.
-- [Koobiq React](https://github.com/koobiq/react-components) – Koobiq React components library.
-- [Koobiq Design Tokens](https://github.com/koobiq/design-tokens) - used to maintain a scalable visual system for UI development and brand consistency. 
-
-### ✨ Community
-
-- [Join our Discord](https://discord.gg/43MRHjgWYg)
+<h3 align="center">
+    <a href="https://koobiq.io/en">Koobiq Angular</a>
+    •
+    <a href="https://react.koobiq.io/">Koobiq React</a>
+    •
+    <a href="https://t.me/koobiq_io">Telegram</a>
+</h3>
