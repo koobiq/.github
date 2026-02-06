@@ -12,4 +12,4 @@
 
 ### ✨ Community
 
-- [Join our Discord](https://discord.gg/43MRHjgWYg)
+- [Telegram](https://t.me/koobiq_io)
